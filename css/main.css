@@ -1,0 +1,23 @@
+body {
+  background: rgba(255, 0, 0, 0.5);
+  padding:0;
+  margin:0;
+}
+nav{
+  height: 40px;
+  width:100vw;
+  background: rgb(60, 77, 149)
+}
+nav ul {
+  height: 100%;
+  padding: 0;
+  margin:0;
+}
+nav ul li {
+display: inline;
+padding: 10px 15px;
+}
+nav ul li a {
+  color:rgb(163, 220, 235)
+  text-decoration: none;
+}
